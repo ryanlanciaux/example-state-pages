@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav button {
+  border: 0;
+  background: none;
+  padding: 0;
+  text-decoration: underline;
+  margin-right: 15px;
+}
